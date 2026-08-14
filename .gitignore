@@ -1,0 +1,28 @@
+# Compiled Java class files
+bin/
+*.class
+
+# Log files
+*.log
+
+# Package and Archive Files
+*.jar
+*.war
+*.zip
+*.tar.gz
+
+# Crash logs
+hs_err_pid*
+replay_pid*
+
+# IDE & Editor Configurations
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Operating System Files
+.DS_Store
+Thumbs.db
